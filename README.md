@@ -1,4 +1,4 @@
-### Hands-On Auto DevOps Training Module with GitLab
+## Hands-On Auto DevOps Training Module with GitLab
 
 Mastering Automated Software Delivery Using GitLab's Auto DevOps
 
